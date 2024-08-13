@@ -1,20 +1,20 @@
 export default [
     {
-       title: 'Terminal Website',
-       imgUrl: '/assets/terminal-website.jpg',
-       stack: ['HTML', 'CSS', 'JavaScript'],
-       link: 'https://fkcodes.com',
+       title: 'VibeStation',
+       imgUrl: '/assets/vibestation.png',
+       stack: [],
+       link: 'https://aiyanascar.github.io/VibeStation/',
     },
     {
-       title: 'Developer Portfolio',
-       imgUrl: '/assets/dev-portfolio.jpg',
-       stack: ['React', 'Tailwind', 'Vite'],
-       link: 'https://thehackershideout.com',
+       title: 'Your Tiny Pet Site',
+       imgUrl: '/assets/tiny-pet.png',
+       stack: [],
+       link: 'https://github.com/ashmeyo74/petinfosource',
     },
     {
-       title: 'AI Nerf Gun',
-       imgUrl: '/assets/ai-nerf-gun.jpg',
-       stack: ['Python', 'C++', 'Robotics'],
-       link: 'https://youtu.be/A8eegxL82PI',
+       title: 'IntelliQuest Developer Tools',
+       imgUrl: '/assets/intelliquest.png',
+       stack: [],
+       link: 'https://intelliquest.onrender.com/',
     },
  ]
